@@ -125,7 +125,7 @@ export const BubbleButton = (props: Props) => {
               padding: '8px',
             }}
           >
-            Une question ?
+            Any questions?
           </span>
         </Show>
         <Show when={props.customIconSrc}>
